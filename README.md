@@ -1,6 +1,6 @@
 Student Details : 
-Name: Deepak Singh
-Registration Number:24MEI10061
+Name: shivani thakur
+Registration Number:24MIP10104
 Course: Open Source Software 
 Project: OSS Capstone
 
@@ -110,7 +110,7 @@ Script 4 may require root privileges:
 sudo ./script4.sh /var/log/syslog kernel
 
 Repository Structure
-oss-audit-24mei10061/
+oss-audit-24mip10104/
 ├── script1.sh 
 ├── script2.sh 
 ├── script3.sh 
