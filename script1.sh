@@ -3,7 +3,7 @@
 # Author: Your Name | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Deepak"
+STUDENT_NAME="shivani"
 SOFTWARE_CHOICE="Linux Kernel"
 
 # --- System Info ---
