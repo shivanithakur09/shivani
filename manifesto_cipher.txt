@@ -1,0 +1,6 @@
+----- Open Source Manifesto -----
+Date: 30 March 2026
+
+I use Linux daily, and it reminds me that software should be built with Self-Decisions at its core.
+I believe in sharing knowledge openly, and one day I will create A good project and make it accessible to everyone.
+The Linux Kernel and the open-source community inspire me to contribute, learn, and grow together.
